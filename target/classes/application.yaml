@@ -3,7 +3,7 @@ server:
   
 spring:
   application:
-    name: ingressify-discovery
+    name: jogayjoga-discovery
 
 eureka:
   instance:

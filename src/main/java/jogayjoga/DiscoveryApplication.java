@@ -1,4 +1,4 @@
-package insper.ingressify;
+package jogayjoga;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
