@@ -1,1 +1,1 @@
-# ingressify.discovery
+# jogayjoga.discovery
